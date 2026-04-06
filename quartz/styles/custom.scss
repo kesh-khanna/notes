@@ -6,9 +6,10 @@
 }
 
 body {
+  font-family: "DOS", "Courier New", Courier, monospace;
   font-smooth: never;
   -webkit-font-smoothing: none;
-  -moz-osx-font-smoothing: unset;
+  -moz-font-smoothing: greyscale;
 }
 
 article {
