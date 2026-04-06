@@ -3,11 +3,10 @@ title: music
 publish: true
 ---
 
-notes on music - albums, sets, theory.
+notes on music
 
 ## albums
 
-
 ## sets
-tracklists and notes from DJ sets.
+
 
