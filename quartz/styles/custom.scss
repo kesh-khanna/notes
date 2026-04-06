@@ -1,3 +1,38 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+@font-face {
+  font-family: "DOS";
+  src: url("/static/fonts/Px437_DOS-V_re_ANK24.ttf") format("truetype");
+}
+
+body {
+  font-smooth: never;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: unset;
+}
+
+#quartz-root {
+  max-width: 55rem;
+}
+
+article {
+  border: 2px ridge var(--lightgray);
+  border-radius: 5px;
+  padding: 10px;
+  background: linear-gradient(var(--light), var(--highlight));
+}
+
+.backlinks, .toc, .tags {
+  border: 2px ridge var(--lightgray);
+  border-radius: 5px;
+  background: linear-gradient(var(--light), var(--highlight));
+  padding: 5px;
+}
+
+.callout {
+  border-radius: 5px;
+}
+
+nav a:hover, nav a:focus {
+  font-style: italic;
+}
