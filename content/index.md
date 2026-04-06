@@ -5,7 +5,7 @@ publish: true
 
 a collection of things i have written down. for now just a skeleton
 
-click [here](keshkesh@neocities.org) to go back to the main site
+click [here](https://keshkesh.neocities.org/) to go back to the main site
 
 ## sections
 
